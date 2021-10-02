@@ -4,12 +4,6 @@
 - PHP
 - Laravel
 
-#### I'm interested in
-- TestCode
-- CleanCode
-- OOP
-- AWS
-
 #### I was inspired by these books
 - The Software Craftsman: Professionalism, Pragmatism, Pride)
 - The Clean Coder
