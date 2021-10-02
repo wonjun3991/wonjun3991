@@ -1,4 +1,4 @@
-### Hi I'm backend developer Wonjun
+### Hi
 
 #### I Used
 - PHP
