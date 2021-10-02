@@ -1,14 +1,15 @@
-![header]<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I%27m%20Wonjun!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 <h3 align="center"> I Used </h3>
 <div align="center">
-- PHP
-- Laravel
+PHP, Laravel
 </div>
 
 <h3 align="center"> I was inspired by these books </h3>
-- The Software Craftsman: Professionalism, Pragmatism, Pride)
-- The Clean Coder
+<div align="center">
+<p>The Software Craftsman: Professionalism, Pragmatism, Pride)</p>
+<p>The Clean Coder</p>
+</div>
 
 <h3 align="center">My Github Stats</h3>
 <div align="center">
