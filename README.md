@@ -11,6 +11,12 @@ PHP, Laravel
 <p>The Clean Coder</p>
 </div>
 
+
+<h3 align="center">My Codewars Stats</h3>
+<div align="center">
+[![Wonjun's Codewars stats](https://www.codewars.com/users/wonjun3991/badges/large)
+</div>
+
 <h3 align="center">My Github Stats</h3>
 <div align="center">
 
