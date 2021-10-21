@@ -7,7 +7,7 @@ PHP, Laravel
 
 <h3 align="center"> I was inspired by these books </h3>
 <div align="center">
-<p>The Software Craftsman: Professionalism, Pragmatism, Pride)</p>
+<p>The Software Craftsman: (Professionalism, Pragmatism, Pride)</p>
 <p>The Clean Coder</p>
 </div>
 
