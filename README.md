@@ -22,3 +22,8 @@ PHP, Laravel
   
 [![Wonjun's GitHub stats](https://www.codewars.com/users/wonjun3991/badges/large)](https://www.codewars.com/users/wonjun3991)
 </div>
+
+<h3 align="center">My Post</h3>
+<div align="center">
+<a href="https://beaded-swoop-391.notion.site/2021-82e6564724d84edc9390318ad693407c">2021년 연말회고</a>
+</div>
