@@ -2,7 +2,7 @@
 
 <h3 align="center"> I Used </h3>
 <div align="center">
-PHP, Laravel
+  Java, Kotlin, Spring
 </div>
 
 <h3 align="center"> I was inspired by these books </h3>
