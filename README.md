@@ -2,7 +2,15 @@
 
 <h3 align="center"> I Used </h3>
 <div align="center">
-  Java, Kotlin, Spring
+  PHP, Java, Kotlin, Python
+</div>
+
+<h3 align="center"> I Worked at </h3>
+<div align="center">
+  <a href="https://www.vroong.com">VROONG(MeshKorea)</a>
+</div>
+<div align="center">
+  <a href="https://www.knowk.io">KNOWK</a>
 </div>
 
 <h3 align="center"> I was inspired by these books </h3>
